@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "id": "msg1",
+      "content": "A new message!",
+      "priority": "low",
+      "timestamp": "2024-09-27T15:00:00Z",
+      "read": true
+    },
+    {
+      "id": "msg2",
+      "content": "Another message!",
+      "priority": "low",
+      "timestamp": "2024-09-28T15:00:00Z",
+      "read": true
+    },
+    {
+      "id": "msg3",
+      "content": "Yet another message!",
+      "priority": "low",
+      "timestamp": "2024-09-29T15:00:00Z",
+      "read": true
+    },
+    {
+      "id": "msg4",
+      "content": "Team meeting at 3 PM today 🙂",
+      "priority": "high",
+      "timestamp": "2024-09-30T15:00:00Z",
+      "read": false
+    }
+  ]
+}
